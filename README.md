@@ -1,5 +1,5 @@
 ### Hi there, I'm Assita, an IT Professional👋
-<h1>Hi, I'm Assita, an <a href="https://linkedin.com/in/Assitahk">IT Professional</a>☺</h1>
+<h1>Hi, I'm Assita, an <a href="https://linkedin.com/in/ahaidarakambou21">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -18,5 +18,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/assitahk
-[linkedin]: https://linkedin.com/in/assitahk
+[instagram]: https://www.instagram.com/ahaidarakambou21
+[linkedin]: https://linkedin.com/in/ahaidarakambou21
